@@ -1,4 +1,4 @@
-apply plugin: 'com.github.dcendents.android-maven'
+apply plugin: 'com.github.dcendents.android-maven' // added this
 group='com.github.codingbychanche' // added
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.android.library'
